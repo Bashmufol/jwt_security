@@ -1,4 +1,4 @@
-package com.bash.springsecuritydemo;
+package com.bash.springsecuritydemo.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
